@@ -37,5 +37,5 @@ A modern web-based Snake game with real-time multiplayer features, high scores, 
 
 1. **Clone/Download the project:**
 ```bash
-git clone <your-repo-url>
-cd snake-game-project
+git clone https://github.com/panditk455/Snake-Game.git
+cd Snake-Game
