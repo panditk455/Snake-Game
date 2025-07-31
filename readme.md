@@ -1,6 +1,6 @@
 # Snake Game - Full Stack Application
 
-A modern web-based Snake game with real-time multiplayer features, high scores, and enhanced graphics.
+A web-based Snake game with real-time multiplayer features, high scores, and enhanced graphics.
 
 ## Features
 
